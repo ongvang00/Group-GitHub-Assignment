@@ -7,3 +7,12 @@
 _I learned that working in a group requires constant and effective communication_
 
 ![groupwork](https://i0.wp.com/educationalresearchtechniques.com/wp-content/uploads/2015/05/12.jpg?fit=300%2C300&ssl=1)
+
+### Swathi  
+
+I learnt to use _git merge_ and _git rebase_  
+I also learnt how to create [markdown file][Image]
+
+[image][https://download.logo.wine/logo/Markdown/Markdown-Logo.wine.png]
+
+
