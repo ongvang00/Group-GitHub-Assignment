@@ -1,6 +1,4 @@
-### Kennedy
-Today I learned the purpose of a markdown file as well a few differnt ways to write markup code.
-![hello kitty](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVN_J43m0Ai0I7hzS5HFLhGbUAhM_ijjbUw&usqp=CAU)
+
 
 ### Alexa
 Today I learned how to push and pull files back and forth to collaborate. 
