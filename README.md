@@ -10,11 +10,12 @@ _I learned that working in a group requires constant and effective communication
 
 ### Swathi  
 
-I learnt to use _git merge_ and _git rebase_  
-I also learnt how to create   
+_I learnt to use _git merge_ and _git rebase_  
+I also learnt how to create_   
 
 ![markdown file](https://download.logo.wine/logo/Markdown/Markdown-Logo.wine.png)
 
-
-
+#### Kennedy
+_I learned what the purpose of a markdown file is as well as a few differet ways to code one._
+![hellokitty](https://i.pinimg.com/736x/7b/eb/4c/7beb4cf8a4014dfacc16f3b408db7f6d.jpg)
 
