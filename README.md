@@ -19,3 +19,6 @@ _I also learnt how to create markdown file_
 _I learned what the purpose of a markdown file is as well as a few differet ways to code one._
 ![hellokitty](https://i.pinimg.com/736x/7b/eb/4c/7beb4cf8a4014dfacc16f3b408db7f6d.jpg)
 
+##### Alexa
+_I learned how to push and pull files back and forth to collaborate._
+![baby pig](https://b1157417.smushcdn.com/1157417/wp-content/uploads/pig-eating-watermelon-piglet-close-up-outdoors-on-farm-e1552518640778-825x623.jpg?lossy=1&strip=1&webp=0) 
